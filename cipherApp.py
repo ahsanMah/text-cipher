@@ -1,21 +1,5 @@
-# ----------------------------------------------------------
-# HW 11
-# ----------------------------------------------------------
-# Please answer these questions after having completed the 
-# entire assignment.
-# ----------------------------------------------------------
+
 # Name: Ahsan Mahmood
-# Hours spent in total:  
-# Collaborators (if any) and resources used (if any):  
-# Grading: Do you want us to use this code as your 
-# submission for hw10 as well or should we grade last
-# week's submission instead?
-#   <your answer here>
-# Feedback: What was the hardest part of this assignment?
-#   <your answer here>
-# Feedback: Any suggestions for improving the assignment?   
-#   <your answer here>
-# ----------------------------------------------------------
 
 
 def ceaser(filename, key):
